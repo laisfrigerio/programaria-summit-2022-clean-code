@@ -12,7 +12,11 @@ Ao longo da apresentação, eu apresentei uma função [Original Code](./passo-a
 
 ## Challenge
 
-É possível simplificar e aplicar mais boas práticas de programação. Deixo aqui os seguintes pontos:
+<p align="center">
+  <a><img src="./screenshots/final-check-last-guess-function.png" alt="Solução final da função checkLastGuess" title="Solução final da função checkLastGuess"></a>
+</p>
+
+É possível simplificar e aplicar mais boas práticas de programação no código da imagem acima. Deixo aqui os seguintes pontos:
 
 - Como podemos "ocultar" a condicional da linha 19?
 - Como podemos "ocultar" as instruções FOR?
